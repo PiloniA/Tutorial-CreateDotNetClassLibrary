@@ -1,0 +1,12 @@
+C:\Users\Alexander\source\repos\Tutorial-CreateDotNetClassLibrary\StringLibrary\bin\Debug\net7.0\StringLibrary.deps.json
+C:\Users\Alexander\source\repos\Tutorial-CreateDotNetClassLibrary\StringLibrary\bin\Debug\net7.0\StringLibrary.dll
+C:\Users\Alexander\source\repos\Tutorial-CreateDotNetClassLibrary\StringLibrary\bin\Debug\net7.0\StringLibrary.pdb
+C:\Users\Alexander\source\repos\Tutorial-CreateDotNetClassLibrary\StringLibrary\obj\Debug\net7.0\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\Tutorial-CreateDotNetClassLibrary\StringLibrary\obj\Debug\net7.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\Tutorial-CreateDotNetClassLibrary\StringLibrary\obj\Debug\net7.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\Tutorial-CreateDotNetClassLibrary\StringLibrary\obj\Debug\net7.0\StringLibrary.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\Tutorial-CreateDotNetClassLibrary\StringLibrary\obj\Debug\net7.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\Tutorial-CreateDotNetClassLibrary\StringLibrary\obj\Debug\net7.0\StringLibrary.dll
+C:\Users\Alexander\source\repos\Tutorial-CreateDotNetClassLibrary\StringLibrary\obj\Debug\net7.0\refint\StringLibrary.dll
+C:\Users\Alexander\source\repos\Tutorial-CreateDotNetClassLibrary\StringLibrary\obj\Debug\net7.0\StringLibrary.pdb
+C:\Users\Alexander\source\repos\Tutorial-CreateDotNetClassLibrary\StringLibrary\obj\Debug\net7.0\ref\StringLibrary.dll
